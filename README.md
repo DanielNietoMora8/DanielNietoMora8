@@ -20,3 +20,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=danielnietomora8&icon=0&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DanielNietoMora8&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)

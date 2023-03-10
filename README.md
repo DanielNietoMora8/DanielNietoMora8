@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on unsupervised learning models for soundscape recordings analysis<br>👯 I’m looking to collaborate on machine learning, data processing, neuroscience<br>🤝 I’m looking for help with biological conservation plans and neuroscience projetcs<br>🌱 I’m currently learning autoencoders, unsupervised learning methods and advanced python programming skills <br>💬 Ask me about data science, I'm really interested into learn and help<br>
 
 

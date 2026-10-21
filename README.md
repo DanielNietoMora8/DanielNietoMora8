@@ -1,8 +1,8 @@
-# Hi I'm Daniel Nieto. 
-🔭 I’m currently working on unsupervised learning models for soundscape recordings analysis<br>👯 I’m looking to collaborate on machine learning, data processing, neuroscience<br>🤝 I’m looking for help with biological conservation plans and neuroscience projetcs<br>🌱 I’m currently learning autoencoders, unsupervised learning methods and advanced python programming skills <br>💬 Ask me about data science, I'm really interested into learn and help<br>
+# Hola Programadores e Investigadores. Soy Daniel Alexis Nieto Mora.
+🔭 Soy docente e investigador de la institución universitaria ITM de Medellín-Colombia. Egresado del pegrado en ingeniería mecatrónica, de la maestría en automatización y control industrial, y recientemente del doctorado en ingeniería de la misma universidad. Durante mi maestría trabajé con modelos de aprendizaje supervisado para la detección en cambios del procesamiento emocional en ex-combatientes de Colombia, específicamente utilizando métodos tradicionales como las SVM con Kernel para análizar las señales electroencefalográficas de casos y controles. En el doctorado trabajé con algoritmos no supervisados y redes neuronales profundas sobre señales de ecoacústica y bioacústica para detectar patrones espacio temporales en el monitoreo acústico pasivo de regiones de Colombia. En mi trabajo doctoral logré proponer métodos de visualización y conectividad de datos usando reducción de dimensionalidad. <br>
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-alexis-nieto-mora-48386119a/) 
 
 # 💻 Tech Stack:

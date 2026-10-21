@@ -58,7 +58,7 @@ Cursos orientados:
 ### 💻 Lenguajes de programación
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,r,latex" alt="Python, C++, R y LaTeX" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,arduino,r,latex" alt="Python, Java, C++, Arduino, R y LaTeX" />
 </p>
 
 ### 🤖 Inteligencia artificial y análisis de datos
